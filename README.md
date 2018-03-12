@@ -12,4 +12,4 @@ This is a tensorflow implementation of MTCNN  of [Zhang's](https://github.com/kp
 `python Mtcnn/test.py`
 
 ## Result
-![](./Result/test-image.gif)
+![](./Result/test.jpg)
