@@ -6,6 +6,8 @@ This is a tensorflow implementation of MTCNN  of [Zhang's](https://github.com/kp
 * python-3.6
 * opencv3
 * tensorflow
+* sklearn
+* matplotlib
 
 ## Test
 
